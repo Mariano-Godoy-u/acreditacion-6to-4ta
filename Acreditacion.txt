@@ -1,0 +1,3 @@
+edad_perro = int(input("Ingresa la edad de tu perro en años: "))
+edad_humana = edad_perro * 7
+print(f"La edad del perro en años humanos es {edad_humana} años.")
